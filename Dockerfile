@@ -1,4 +1,4 @@
-FROM dawn001/z_mirror:latest
+FROM anasty17/mltb:dev
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
